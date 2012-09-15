@@ -1,4 +1,4 @@
-Tugas Besar Rekayasa Perangkat Lunak
+Rekayasa Perangkat Lunak
 
 <hr/>
 1. Team Leader	:
