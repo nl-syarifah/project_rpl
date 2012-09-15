@@ -14,7 +14,7 @@ Nur Lailatis Syarifah
 Yosafat Andy D
 
 5. PIC Implementation	:
-Team Leader
+Sugeng Hariyanto
 
 6. PIC Manual & Documentation	:
 RR. Henning Gratiyanis A
