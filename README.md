@@ -19,4 +19,4 @@ Sugeng Hariyanto
 6. PIC Manual & Documentation	:
 RR. Henning Gratiyanis A
 
-website : http://www.sugengbie.blogspot.com/
+website : http://www.siraja25.blogspot.com/
