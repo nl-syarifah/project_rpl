@@ -4,7 +4,7 @@ Rekayasa Perangkat Lunak
 1. Team Leader	:
 Sugeng Hariyanto
 
-2. PIC Planning & testing :
+2. PIC Planning & Testing :
 Roby Ardiyanto
 
 3. PIC Analysis	:
