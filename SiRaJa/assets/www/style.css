@@ -1,0 +1,14 @@
+#body{
+	background-image:"design/home.png";
+	height:320px;
+	width:480px;
+	margin:auto;
+}
+.button1{
+	margin-left:200px;
+	margin-top:-180px;
+}
+.button2{
+	margin-left:200px;
+	margin-top:0px;
+}
