@@ -1,0 +1,60 @@
+#body{
+	background-image:"design/home.png";
+	height:320px;
+	width:480px;
+	margin:auto;
+}
+.button1{
+	margin-left:200px;
+	margin-top:-180px;
+}
+.button2{
+	margin-left:200px;
+	margin-top:0px;
+}
+
+.hruf{
+	margin-left:60px;
+	margin-top:-270px;
+}
+
+.hruf1{
+	margin-left:130px;
+	margin-top:-40px;
+}
+
+.hruf2{
+	margin-left:200px;
+	margin-top:-40px;
+}
+
+.hruf3{
+	margin-left:270px;
+	margin-top:-40px;
+}
+
+.hruf4{
+	margin-left:340px;
+	margin-top:-40px;
+}
+
+.hruf5{
+	margin-left:50px;
+	margin-top:20px;
+}
+
+.hruf6{
+	margin-left:120px;
+	margin-top:-40px;
+}
+
+.hruf7{
+	margin-left:190px;
+	margin-top:-40px;
+}
+
+.hruf8{
+	margin-left:260px;
+	margin-top:-40px;
+}
+
