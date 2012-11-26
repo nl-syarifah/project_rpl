@@ -17,14 +17,20 @@
 
 .play
 {
-	margin-top:40px;
+	margin-top:20px;
 	margin-left:350px;
 }
 
 .play2
 {
-	margin-top:-30px;
+	margin-top:-35px;
 	margin-left:280px;
+}
+
+.quiz
+{
+	margin-left:80px;
+	margin-top:40px;
 }
 
 table
@@ -49,10 +55,31 @@ h2
 
 p.main
 {
-text-align:justify;
+	text-align:center;
 }
 
-a:link {color:#FF0000;}    /* unvisited link */
-a:visited {color:#00FF00;} /* visited link */
-a:hover {color:#FF00FF;}   /* mouse over link */
-a:active {color:#0000FF;}  /* selected link */
+.help
+{
+	margin-left:30px;
+	margin-top:30px;
+}
+
+.baut
+{
+	margin-left:350px;
+	margin-top:10px;
+}
+
+
+div.scroll
+{
+	background-color:#ffffff;
+	width:380px;
+	height:200px;
+	margin-left:40px;
+	margin-top:40px;
+	overflow:scroll;
+}
+
+a:hover {color:#000000;}  /* mouse over link */
+
