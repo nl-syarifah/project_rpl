@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<script type="text/javascript" charset="utf-8" src="cordova-2.1.0.js"></script>
+	<link rel="stylesheet" href="theme/style.css" type="text/css"/>
+	<style type="text/css">
+		body{
+		background-image:url('design/quiz.png');
+		background-repeat:no-repeat;
+		height:320px;
+		width:480px;
+		}
+		#div1 {
+			width:80px;
+			height:80px;
+			margin-left:160px;
+			margin-top:50px;
+			padding:10px;
+			}
+	</style>
+	<script>
+		function allowDrop(ev){
+		ev.preventDefault();
+		}
+		function drag(ev)
+		{
+		ev.dataTransfer.setData("Text",ev.target.id);
+		}
+		function drop(ev){
+		ev.preventDefault();
+		var data=ev.dataTransfer.getData("Text");
+		ev.target.appendChild(document.getElementById(data));
+		}
+	</script>
+</head>
+<body>
+
+<div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+<br>
+<div class="quiz">
+<img src="honoco/na.gif" draggable="true" ondragstart="drag(event)" width="40" height="30">
+<img src="honoco/ka.gif" draggable="true" ondragstart="drag(event)" width="40" height="30">
+<img id="drag1" src="honoco/ra.gif" draggable="true" ondragstart="drag(event)" width="40" height="30">
+<img src="honoco/ca.gif" draggable="true" ondragstart="drag(event)" width="40" height="30">
+</div>
+
+</body>
+</html>

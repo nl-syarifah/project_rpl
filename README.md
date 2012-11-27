@@ -4,7 +4,7 @@ Rekayasa Perangkat Lunak
 1. Team Leader	:
 Sugeng Hariyanto
 
-2. PIC Planning & testing :
+2. PIC Planning & Testing :
 Roby Ardiyanto
 
 3. PIC Analysis	:
@@ -19,4 +19,4 @@ Sugeng Hariyanto
 6. PIC Manual & Documentation	:
 RR. Henning Gratiyanis A
 
-website : http://www.sugengbie.blogspot.com/
+website : http://www.siraja25.blogspot.com/
