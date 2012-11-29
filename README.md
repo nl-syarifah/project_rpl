@@ -21,10 +21,10 @@ Aplikasi ini dipakai di semua kalangan tetapi dikhusukan untuk pelajar SD dan SM
 
 #Contact Person
 
-PIC IMPLEMENTATION	= <a href ="https://github.com/gengsu">Sugeng H</a>
-PIC PLANNING & TESTING	= <a href ="https://github.com/Kangoby">Roby Ardiyanto</a>
-PIC ANALIST		= <a herf="https://github.com/nl-syarifah">Nurlailatis Sy</a>
-PIC DESAIN		= <a href ="https://github.com/nduz">Yosafat Andy D.A.D</a>
+PIC IMPLEMENTATION	= <a href ="https://github.com/gengsu">Sugeng H</a><br/>
+PIC PLANNING & TESTING	= <a href ="https://github.com/Kangoby">Roby Ardiyanto</a><br/>
+PIC ANALIST		= <a herf="https://github.com/nl-syarifah">Nurlailatis Sy</a><br/>
+PIC DESAIN		= <a href ="https://github.com/nduz">Yosafat Andy D.A.D</a><br/>
 PIC DUCUMENTATION	=<a href ="https://github.com/InEr">Rr. Henning G.A./a>
 
 #Website
