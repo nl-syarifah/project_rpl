@@ -2,19 +2,30 @@
 SiRaJa ( Sinau Aksara Jawa)
 
 #Deskripsi Umum
+SiRaJa adalah Sebuah software untuk belajar aksara jawa untuk siswa dan masyarakat yang dapat melestarikan bahasa jawa pada era globalisasi.
+aplikasi SiRaJa bertujuan untuk 
+- Melestarikan aksara jawa yang semakin hilang akibat globalisasi,
+- Menambah minat masyarakat dan siswa agar tidak meninggalkan bahasa jawa dan mempermudah masyarakat serta siswa untuk belajar aksara jawa,
+Pada aplikasi ini dapat menampilkan huruf jawa (aksara jawa), sehingga user bisa meniru cara menulis huruf jawa,
+Aplikasi SiRaja “Sinau Aksara Jawa” ini merupakan aplikasi yang akan dijalankan lewat sistem operasi Android,
+
 
 #Deskripsi Teknis
+Aplikasi SiRaJa ini berjalan di sistem oprasi Android dengan spesifikasi minimum android versi 2.2 sampai versi 2.3
+Aplikasi ini dipakai di semua kalangan tetapi dikhusukan untuk pelajar SD dan SMP.
 
 #URL download aplikasi
 
 #Panduan Instalasi
 
+
 #Contact Person
 
-PIC IMPLEMENTATION	= 
-PIC PLANNING & TESTING	=
-PIC ANALIST		=
-PIC DUCUMENTATION	=
+PIC IMPLEMENTATION	= <a href ="https://github.com/gengsu">Sugeng H</a>
+PIC PLANNING & TESTING	= <a href ="https://github.com/Kangoby">Roby Ardiyanto</a>
+PIC ANALIST		= <a herf="https://github.com/nl-syarifah">Nurlailatis Sy</a>
+PIC DESAIN		= <a href ="https://github.com/nduz">Yosafat Andy D.A.D</a>
+PIC DUCUMENTATION	=<a href ="https://github.com/InEr">Rr. Henning G.A./a>
 
 #Website
 http://www.siraja25.blogspot.com/
