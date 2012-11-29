@@ -1,6 +1,7 @@
-Belajar Aksara Jawa
-SiRaJa ( Sinau Aksara Jawa)
-
+##Belajar Aksara Jawa
+<br/>
+##SiRaJa ( Sinau Aksara Jawa)
+<br/><hr/>
 Deskripsi umum perangkat lunak yang dibuat.
 <br/><hr/>
 Deskripsi teknis perangkat lunak yang dibuat
