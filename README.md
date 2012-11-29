@@ -1,22 +1,20 @@
-Rekayasa Perangkat Lunak
+#Belajar Aksara Jawa
+SiRaJa ( Sinau Aksara Jawa)
 
-<hr/>
-1. Team Leader	:
-Sugeng Hariyanto
+#Deskripsi Umum
 
-2. PIC Planning & testing :
-Roby Ardiyanto
+#Deskripsi Teknis
 
-3. PIC Analysis	:
-Nur Lailatis Syarifah
+#URL download aplikasi
 
-4. PIC Design	:
-Yosafat Andy D
+#Panduan Instalasi
 
-5. PIC Implementation	:
-Sugeng Hariyanto
+#Contact Person
 
-6. PIC Manual & Documentation	:
-RR. Henning Gratiyanis A
+PIC IMPLEMENTATION	= 
+PIC PLANNING & TESTING	=
+PIC ANALIST		=
+PIC DUCUMENTATION	=
 
-website : http://www.sugengbie.blogspot.com/
+#Website
+http://www.siraja25.blogspot.com/
