@@ -1,20 +1,20 @@
-#Belajar Aksara Jawa
+##Belajar Aksara Jawa
 SiRaJa ( Sinau Aksara Jawa)
 
-#Deskripsi Umum
+##Deskripsi Umum
+Siraja adalah perangkat lunak yang
+##Deskripsi Teknis
 
-#Deskripsi Teknis
+##URL download aplikasi
 
-#URL download aplikasi
+##Panduan Instalasi
 
-#Panduan Instalasi
-
-#Contact Person
+##Contact Person
 
 PIC IMPLEMENTATION	= 
 PIC PLANNING & TESTING	=
 PIC ANALIST		=
 PIC DUCUMENTATION	=
 
-#Website
+##Website
 http://www.siraja25.blogspot.com/
