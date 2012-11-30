@@ -7,13 +7,13 @@ aplikasi SiRaJa bertujuan untuk
 - Melestarikan aksara jawa yang semakin hilang akibat globalisasi,
 - Menambah minat masyarakat dan siswa agar tidak meninggalkan bahasa jawa dan mempermudah masyarakat serta siswa untuk belajar aksara jawa,
 Pada aplikasi ini dapat menampilkan huruf jawa (aksara jawa), sehingga user bisa meniru cara menulis huruf jawa,
-Aplikasi SiRaja �Sinau Aksara Jawa� ini merupakan aplikasi yang akan dijalankan lewat sistem operasi Android,
+Aplikasi SiRaja Sinau Aksara Jawa merumpakan aplikasi yang akan dijalankan lewat sistem operasi Android,
 
 
 #Deskripsi Teknis
-Aplikasi SiRaJa ini berjalan di sistem oprasi Android dengan spesifikasi minimum android versi 2.2 sampai versi 2.3
-Aplikasi ini dipakai di semua kalangan tetapi dikhusukan untuk pelajar SD dan SMP.
->>>>>>> c02651f86f85eba2665160a474e7dad17e642603
+Aplikasi SiRaJa merupakan aplikasi berbasis mobile yang berjalan disistem oprasi Android dengan spesifikasi minimum android versi 2.2 sampai versi 2.3
+Aplikasi ini dipakai disemua kalangan tetapi dikhususkan untuk pelajar SD dan SMP.
+
 
 ##Panduan Instalasi
 
